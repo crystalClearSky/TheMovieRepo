@@ -1,0 +1,9 @@
+C:\Users\Justice\source\repos\TheMovieApp.Core\bin\Debug\netcoreapp3.1\TheMovieApp.Core.deps.json
+C:\Users\Justice\source\repos\TheMovieApp.Core\bin\Debug\netcoreapp3.1\TheMovieApp.Core.dll
+C:\Users\Justice\source\repos\TheMovieApp.Core\bin\Debug\netcoreapp3.1\TheMovieApp.Core.pdb
+C:\Users\Justice\source\repos\TheMovieApp.Core\obj\Debug\netcoreapp3.1\TheMovieApp.Core.csprojAssemblyReference.cache
+C:\Users\Justice\source\repos\TheMovieApp.Core\obj\Debug\netcoreapp3.1\TheMovieApp.Core.AssemblyInfoInputs.cache
+C:\Users\Justice\source\repos\TheMovieApp.Core\obj\Debug\netcoreapp3.1\TheMovieApp.Core.AssemblyInfo.cs
+C:\Users\Justice\source\repos\TheMovieApp.Core\obj\Debug\netcoreapp3.1\TheMovieApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\Justice\source\repos\TheMovieApp.Core\obj\Debug\netcoreapp3.1\TheMovieApp.Core.dll
+C:\Users\Justice\source\repos\TheMovieApp.Core\obj\Debug\netcoreapp3.1\TheMovieApp.Core.pdb

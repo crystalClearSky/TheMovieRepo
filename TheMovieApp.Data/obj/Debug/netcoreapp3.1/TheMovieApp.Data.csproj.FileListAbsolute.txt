@@ -1,0 +1,15 @@
+C:\Users\Justice\source\repos\TheMovieApp.Data\bin\Debug\netcoreapp3.1\TheMovieApp.Data.deps.json
+C:\Users\Justice\source\repos\TheMovieApp.Data\bin\Debug\netcoreapp3.1\TheMovieApp.Data.dll
+C:\Users\Justice\source\repos\TheMovieApp.Data\bin\Debug\netcoreapp3.1\TheMovieApp.Data.pdb
+C:\Users\Justice\source\repos\TheMovieApp.Data\bin\Debug\netcoreapp3.1\TheMovieApp.Core.dll
+C:\Users\Justice\source\repos\TheMovieApp.Data\bin\Debug\netcoreapp3.1\TheMovieApp.Core.pdb
+C:\Users\Justice\source\repos\TheMovieApp.Data\obj\Debug\netcoreapp3.1\TheMovieApp.Data.csprojAssemblyReference.cache
+C:\Users\Justice\source\repos\TheMovieApp.Data\obj\Debug\netcoreapp3.1\TheMovieApp.Data.AssemblyInfoInputs.cache
+C:\Users\Justice\source\repos\TheMovieApp.Data\obj\Debug\netcoreapp3.1\TheMovieApp.Data.AssemblyInfo.cs
+C:\Users\Justice\source\repos\TheMovieApp.Data\obj\Debug\netcoreapp3.1\TheMovieApp.Data.csproj.CopyComplete
+C:\Users\Justice\source\repos\TheMovieApp.Data\obj\Debug\netcoreapp3.1\TheMovieApp.Data.dll
+C:\Users\Justice\source\repos\TheMovieApp.Data\obj\Debug\netcoreapp3.1\TheMovieApp.Data.pdb
+C:\Users\Justice\source\repos\TheMovieApp.Data\bin\Debug\netcoreapp3.1\TheMovieApp.Data.runtimeconfig.json
+C:\Users\Justice\source\repos\TheMovieApp.Data\bin\Debug\netcoreapp3.1\TheMovieApp.Data.runtimeconfig.dev.json
+C:\Users\Justice\source\repos\TheMovieApp.Data\obj\Debug\netcoreapp3.1\TheMovieApp.Data.genruntimeconfig.cache
+C:\Users\Justice\source\repos\TheMovieApp.Data\obj\Debug\netcoreapp3.1\TheMovieApp.Data.csproj.CoreCompileInputs.cache
