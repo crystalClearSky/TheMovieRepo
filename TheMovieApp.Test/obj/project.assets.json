@@ -6750,11 +6750,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Justice\\source\\repos\\TheMovieApp.Test\\TheMovieApp.Test.csproj",
+      "projectUniqueName": "C:\\Code\\Projects\\TheMoviesProject\\TheMovieApp.Test\\TheMovieApp.Test.csproj",
       "projectName": "TheMovieApp.Test",
-      "projectPath": "C:\\Users\\Justice\\source\\repos\\TheMovieApp.Test\\TheMovieApp.Test.csproj",
+      "projectPath": "C:\\Code\\Projects\\TheMoviesProject\\TheMovieApp.Test\\TheMovieApp.Test.csproj",
       "packagesPath": "C:\\Users\\Justice\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Justice\\source\\repos\\TheMovieApp.Test\\obj\\",
+      "outputPath": "C:\\Code\\Projects\\TheMoviesProject\\TheMovieApp.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Justice\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6770,8 +6770,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Justice\\source\\repos\\TheMovieApp.Data\\TheMovieApp.Data.csproj": {
-              "projectPath": "C:\\Users\\Justice\\source\\repos\\TheMovieApp.Data\\TheMovieApp.Data.csproj"
+            "C:\\Code\\Projects\\TheMoviesProject\\TheMovieApp.Data\\TheMovieApp.Data.csproj": {
+              "projectPath": "C:\\Code\\Projects\\TheMoviesProject\\TheMovieApp.Data\\TheMovieApp.Data.csproj"
             }
           }
         }

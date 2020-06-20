@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Justice\\source\\repos\\TheMovieApp.Core\\TheMovieApp.Core.csproj": {}
+    "C:\\Code\\Projects\\TheMoviesProject\\TheMovieApp.Core\\TheMovieApp.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Justice\\source\\repos\\TheMovieApp.Core\\TheMovieApp.Core.csproj": {
+    "C:\\Code\\Projects\\TheMoviesProject\\TheMovieApp.Core\\TheMovieApp.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Justice\\source\\repos\\TheMovieApp.Core\\TheMovieApp.Core.csproj",
+        "projectUniqueName": "C:\\Code\\Projects\\TheMoviesProject\\TheMovieApp.Core\\TheMovieApp.Core.csproj",
         "projectName": "TheMovieApp.Core",
-        "projectPath": "C:\\Users\\Justice\\source\\repos\\TheMovieApp.Core\\TheMovieApp.Core.csproj",
+        "projectPath": "C:\\Code\\Projects\\TheMoviesProject\\TheMovieApp.Core\\TheMovieApp.Core.csproj",
         "packagesPath": "C:\\Users\\Justice\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Justice\\source\\repos\\TheMovieApp.Core\\obj\\",
+        "outputPath": "C:\\Code\\Projects\\TheMoviesProject\\TheMovieApp.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Justice\\AppData\\Roaming\\NuGet\\NuGet.Config",

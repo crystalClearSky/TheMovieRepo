@@ -25,6 +25,7 @@ namespace TheMovieApp.Core
         public List<Genre> Genres { get; set; }
         public Movie()
         {
+            // Hello test
             Starring = new List<Person>();
             Genres = new List<Genre>();
         }
